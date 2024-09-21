@@ -1,0 +1,17 @@
+{
+  "name": "blockhack2024",
+  "version": "1.0.0",
+  "description": "Blockchain Hackathon conducted by KBA ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rao Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.22.11"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
